@@ -11,11 +11,11 @@ The project created a few classes
 named after animals in the zoo.
 And it contains the root class which
 is called **Animal** and subclass 
-called **Tiger** and **Peack**. **Tider** 
+called **Tiger** and **Peacock**. **Tiger** 
 extends abstract class called **Mammal** 
 having **Animal** as its superclass 
 , and implements interfaces called 
-**CanAttack** and **CanRun**. **Peack** 
+**CanAttack** and **CanRun**. **Peacock** 
 directly extends **Animal** and implements
 **CanRun**.
 
